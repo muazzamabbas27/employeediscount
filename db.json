@@ -17,10 +17,11 @@
     "name": "typicode"
   },
   
-  "employeedDiscountResult":{
-    "userName":"Expmua",
+  "employeedDiscountResult":[
+    {
+    "userName":"expmua",
     "Name":"Muazzam",
-    "userId":"Expmua",
+    "userId":"expmua",
     "password":"123456",
     "barcodes":{
       "Salling":"123",
@@ -28,5 +29,30 @@
             "Bilka":"13",
       "Online":"12"
     }
-  }
+    },
+    {
+    "userName":"expmuz",
+    "Name":"Munsrim",
+    "userId":"expmuz",
+    "password":"123456",
+    "barcodes":{
+      "Salling":"11",
+       "Fotex":"44",
+            "Bilka":"55",
+      "Online":"66"
+    }
+    },
+    {
+    "userName":"expmuz",
+    "Name":"Imran",
+    "userId":"Expmuz",
+    "password":"123456",
+    "barcodes":{
+      "Salling":"99",
+       "Fotex":"77",
+            "Bilka":"88",
+      "Online":"22"
+    }
+    }
+  ]
 }
