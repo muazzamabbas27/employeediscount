@@ -1,21 +1,5 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
-     {
-      "id": 2,
-      "title": "Hi"
-    },
-     {
-      "id": 3,
-      "title": "tack"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
+  
   
   "employeedDiscountResult":[
     {
@@ -34,7 +18,7 @@
     "userName":"expmuz",
     "Name":"Munsrim",
     "userId":"expmuz",
-    "password":"123456",
+    "password":"1234567",
     "barcodes":{
       "Salling":"11",
        "Fotex":"44",
@@ -43,10 +27,10 @@
     }
     },
     {
-    "userName":"expmuz",
+    "userName":"expmaa",
     "Name":"Imran",
-    "userId":"Expmuz",
-    "password":"123456",
+    "userId":"expmaa",
+    "password":"1234568",
     "barcodes":{
       "Salling":"99",
        "Fotex":"77",
