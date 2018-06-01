@@ -1,5 +1,11 @@
 {
-"userName":"admin",
-"password":"admin_123"
- 
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
