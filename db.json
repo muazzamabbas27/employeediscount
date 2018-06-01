@@ -15,5 +15,18 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  
+  "employeedDiscountResult":{
+    "userName":"Expmua",
+    "Name":"Muazzam",
+    "userId":"Expmua",
+    "password":"123456",
+    "barcodes":{
+      "Salling":"123",
+       "Fotex":"11",
+            "Bilka":"13",
+      "Online":"12"
+    }
   }
 }
