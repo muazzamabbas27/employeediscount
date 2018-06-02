@@ -8,10 +8,10 @@
     "userId":"expmua",
     "password":"123456",
     "barcodes":{
-      "Salling":"123",
-       "Fotex":"11",
-            "Bilka":"13",
-      "Online":"12"
+      "Salling":"12312312312399",
+       "Fotex":"1111111178965",
+            "Bilka":"1313131313345"
+      
     }
     },
     {
@@ -20,10 +20,10 @@
     "userId":"expmuz",
     "password":"1234567",
     "barcodes":{
-      "Salling":"11",
-       "Fotex":"44",
-            "Bilka":"55",
-      "Online":"66"
+      "Salling":"9876543287654",
+       "Fotex":"1234564321987",
+            "Bilka":"5678906543212"
+    
     }
     },
     {
@@ -32,10 +32,10 @@
     "userId":"expmaa",
     "password":"1234568",
     "barcodes":{
-      "Salling":"99",
-       "Fotex":"77",
-            "Bilka":"88",
-      "Online":"22"
+      "Salling":"6654789123567",
+       "Fotex":"3125678976312",
+            "Bilka":"1234987651235"
+    
     }
     }
   ]
