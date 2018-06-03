@@ -6,6 +6,7 @@
     "userName":"expmua",
     "Name":"Muazzam",
     "userId":"expmua",
+    "email":"muab@ciklum.com",
     "password":"123456",
     "barcodes":{
       "Salling":"978020137961",
@@ -19,6 +20,7 @@
     "Name":"Munsrim",
     "userId":"expmuz",
     "password":"1234567",
+       "email":"zamu@ciklum.com",
     "barcodes":{
       "Salling":"978020137964",
        "Fotex":"978020137965",
@@ -31,6 +33,7 @@
     "Name":"Imran",
     "userId":"expmaa",
     "password":"1234568",
+       "email":"Imranali318@hotmail.com",
     "barcodes":{
       "Salling":"978020137967",
        "Fotex":"978020137968",
